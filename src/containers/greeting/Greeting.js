@@ -16,7 +16,7 @@ export default function Greeting() {
               {" "}
               {greeting.title}
               {" "}
-              <img className="greeting-emoji" alt="Bry sitting at a table" src={require("../../assets/images/gohan.gif")}></img>
+              <img className="greeting-emoji" alt="Bry sitting at a table" src={require("../../assets/images/check.png")}></img>
             </h1>
             <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
             <SocialMedia />
