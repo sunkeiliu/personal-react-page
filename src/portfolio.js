@@ -337,7 +337,7 @@ const blogSection = {
 const contactInfo = {
   title: emoji("Contact Me"),
   subtitle: "Interested in building something with me? Send me a message!",
-  email_address: "sunkeiliu.com"
+  email_address: "sunkeiliu@gmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, workExperiences, openSource, creationSection, blogSection, contactInfo };
