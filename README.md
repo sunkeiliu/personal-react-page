@@ -9,14 +9,14 @@ Just change `src/portfolio.js` to get your personal portfolio. Feel free to use 
 ✔️ Contact me\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://bryhasagithub.github.io/portfolio/)**
+To view a live example, **[click here](https://Stevenhasagithub.github.io/portfolio/)**
 ## How To Use 🔧
 
 From your command line, clone and run portfolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/bryhasagithub/portfolio.git
+$ git clone https://github.com/Stevenhasagithub/portfolio.git
 
 # Go into the repository
 $ cd portfolio
@@ -33,16 +33,16 @@ $ npm start
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Bry",
+  title: "Hi all I'm Steven",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/bryhasagithub",
-  linkedin: "https://www.linkedin.com/in/Bryhasalinked/",
-  gmail: "brynguyen1331@gmail.com",
+  github: "https://github.com/Stevenhasagithub",
+  linkedin: "https://www.linkedin.com/in/Stevenhasalinked/",
+  gmail: "Stevennguyen1331@gmail.com",
 };
 
 
