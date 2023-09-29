@@ -43,14 +43,20 @@
 .greeting-text img{
   max-width:100px;
   height: auto;
+  width: 70px;
+}
+.greeting-image-div{
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
 }
 
-.greeting-image-div > img {
+.greeting-image-div img{
   max-width: 100%;
+  /* margin-left: 320px;
+  margin-top: 90px; */
   height: auto;
-  padding-left: 400px;
-  padding-top: 50px;
-
+  border-radius: 20px;
 }
 
 /* Media Query */
