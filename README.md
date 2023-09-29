@@ -9,14 +9,14 @@ Just change `src/portfolio.js` to get your personal portfolio. Feel free to use 
 ✔️ Contact me\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://Stevenhasagithub.github.io/portfolio/)**
+To view a live example, **[click here](https://sunkeiliu.github.io)**
 ## How To Use 🔧
 
 From your command line, clone and run portfolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Stevenhasagithub/portfolio.git
+$ git clone https://github.com/sunkeiliu/personal-react-page.git
 
 # Go into the repository
 $ cd portfolio
