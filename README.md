@@ -19,7 +19,7 @@ From your command line, clone and run portfolio:
 $ git clone https://github.com/sunkeiliu/personal-react-page.git
 
 # Go into the repository
-$ cd portfolio
+$ cd personal-react-page
 
 # Install dependencies
 $ npm install
