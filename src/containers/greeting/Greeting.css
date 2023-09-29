@@ -84,4 +84,9 @@
   .greeting-main {
     display: block;
   }
+  .greeting-text img{
+    max-width:100px;
+    height: auto;
+    width: 30px;
+  }
 }

@@ -211,8 +211,8 @@ const openSource = {
 
 const creationSection = {
 
-  title: emoji("Projects & Creations"),
-  subtitle: "A handful of projects I've built, like software, woodworking, cars, etc.",
+  title: emoji("Projects"),
+  subtitle: "A few projects I've built utilizing various technologies.",
 
   achivementsCards: [
     {
