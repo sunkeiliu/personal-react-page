@@ -15,7 +15,6 @@ const socialMediaLinks = {
   github: "https://github.com/sunkeiliu",
   linkedin: "https://www.linkedin.com/in/sunkei/",
   gmail: "sunkeiliu@gmail.com",
-  // instagram: "https://www.instagram.com/bryhasaninsta/"
 };
 
 // Skills Section
@@ -203,7 +202,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "bryhasagithub",
+  githubUserName: "sunkeiliu",
   showGithubProfile :"true" 
 };
 

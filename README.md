@@ -35,14 +35,14 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Steven",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://docs.google.com/document/d/1f3tKXXA2U23-vcWPqMnsQbi_F24_8xm-izKiCIwwC3Q/"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/Stevenhasagithub",
-  linkedin: "https://www.linkedin.com/in/Stevenhasalinked/",
-  gmail: "Stevennguyen1331@gmail.com",
+  github: "https://github.com/sunkeiliu",
+  linkedin: "https://www.linkedin.com/in/sunkeiliu",
+  gmail: "sunkeiliu@gmail.com",
 };
 
 

@@ -22,9 +22,7 @@ export default function Contact() {
                         <SocialMedia/>
                     </div>
                 </div>
-                {/* <div className="contact-image-div">
-                    <img alt="Bry Working" src={require("../../assets/images/cat-chillin.png")}></img>
-                </div> */}
+
             </div>
         </div>
         </Fade>
